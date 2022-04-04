@@ -1,3 +1,4 @@
+# Docu is outdated, must be updated to fit with new MQTT link. 
 ## This Arduino Project is to be used with iTrain Model Railroud control software. 
 #### It can drive a model Platform-Clock and/or Platform-Train-Departure-Display.
 Previously both display where available as dedicated projects, now both had been combined in one universal code.
